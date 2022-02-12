@@ -1,0 +1,43 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.main{
+    display: flex;
+    
+}
+.main ul li{
+   margin-left: 20px;
+   background-color: yellow;
+}
+
+.main code{
+    background-color: grey;
+    margin-left: 20px
+}
+.main_nav{
+    
+    margin-right: 20px;
+}
+.main_nav ul li{
+    background-color: white;
+    margin-left: -1px;
+    padding-left: 10px;
+    list-style-type: none;
+}
+.main_head{
+    background-color: khaki;
+    padding-bottom: 20px;
+}
+.main_list li{
+    padding-bottom: 30px;
+    border: 1px solid black;
+}
+.body_head{
+    margin: 10px 0px 10px 0px;
+    background-color: yellowgreen
+}
+.body_body{
+   background-color: violet;
+    margin-left: 10px
+}

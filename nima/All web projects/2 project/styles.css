@@ -1,0 +1,32 @@
+.main{
+    height: 100vh;
+    width: 100%;
+    color: white;
+  
+    
+    
+    background: linear-gradient(to top, #3204fdba, #9907facc), url("./tribute-page-main-image.jpg");
+    background-size: cover;
+  z-index: -99;
+    text-align:center;
+}
+
+.forms{
+    background: linear-gradient(to top, #3204fdba, grey);
+    position: relative;
+    font-size: 20px;
+    left: 20%;
+    padding: 40px;
+    height: 80%;
+    width: 50%;
+    
+  text-align: start;
+}
+.forms.input{
+    font-size: 100px;
+}
+.btn{
+    width: 100%;
+
+    background-color: green;
+}
